@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 - 🍵 I'm currently studying at Beijing Institute of Technology, majoring Electronic Information.
 - 👓 Blog Website: https://devil-sx.github.io/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devil-SX)](https://github.com/anuraghazra/github-readme-stats)
