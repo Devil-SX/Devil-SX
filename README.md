@@ -1,30 +1,41 @@
-<h1 align="center">
-Welcome to my profile!👋
-</h1>
-
-<!--
-**Devil-SX/Devil-SX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devil-SX&layout=compact&hide=css,html,javascript,jupyter%20notebook&bg_color=DEG,0F2027,203A43,2C5364&theme=shades-of-purple" />
-  </a>
-  <p>
-   I'm currently studying at Beijing Institute of Technology, majoring Electronic Information.<br>
-   Blog Website: https://devil-sx.github.io/
-  </p>
-</div>
-
-
-
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <title>HTML文件示例</title>
+    <style>
+      img.center {
+        display: block;
+        /* margin-left: auto; */
+        margin-right: auto;
+      }
+      .container {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+      }
+      .image {
+        flex: 20%;
+        padding: 10px;
+        box-sizing: border-box;
+      }
+      .text {
+        flex: 50%;
+        padding: 10px;
+        box-sizing: border-box;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 align="center">This is Devil-SX👋</h1>
+    <div class="container">
+      <div class="image">
+      <img src="https://cdn.jsdelivr.net/gh/Devil-SX/blog-tube@main/avatar.jpg"/>
+      </div>
+      <div class="text">
+        <p>I'm currently studying at Beijing Institute of Technology, majoring Electronic Information.</p>
+        <p>Welcome to visit <a href="https://devil-sx.github.io/s">my blog </a></p>
+      </div>
+    </div>
+  <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devil-SX&layout=compact&hide=css,html,javascript,jupyter%20notebook&theme=shades-of-purple" />
+  </body>
+</html>
